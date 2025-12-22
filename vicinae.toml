@@ -1,0 +1,31 @@
+[meta]
+version = 1
+name = "Hogwarts Night"
+description = "A magical Harry Potter system theme."
+variant = "dark"
+inherits = "vicinae-dark"
+
+[colors.core]
+background = "#0c0e14"
+foreground = "#e0d6c2"
+secondary_background = "#13161f"
+border = "#383c4a"
+accent = "#ecb939"
+
+[colors.list.item.hover]
+background = "#1a1e29"
+foreground = "#e0d6c2"
+
+[colors.list.item.selection]
+background = "#2f3340"
+foreground = "#e0d6c2"
+
+[colors.accents]
+blue = "#224f85"
+green = "#1a472a"
+magenta = "#725e87"
+orange = "#dba25a"
+purple = "#d18c9f"
+red = "#ae0001"
+yellow = "#ecb939"
+cyan = "#3a6e6e"

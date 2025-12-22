@@ -1,0 +1,105 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "name": "Hogwarts Night",
+  "author": "Omarchy (Generated)",
+  "themes": [
+    {
+      "name": "Hogwarts Night",
+      "appearance": "dark",
+      "style": {
+        "background": "#0c0e14",
+        "editor.background": "#0c0e14",
+        "editor.foreground": "#e0d6c2",
+        "text": "#e0d6c2",
+        "text.muted": "#7c818c",
+        "text.ignored": "#5a5e6b",
+        "text.placeholder": "#5a5e6b",
+        "ignored": "#5a5e6b",
+        "element.hover": "#2f3340",
+        "ghost_element.hover": "#2f3340",
+        "ghost_element.selected": "#383c4a",
+        "ghost_element.active": "#383c4a",
+        "border": "#383c4a",
+        "editor.highlighted_line.background": "#13161f",
+        "editor.active_line.background": "#13161f",
+        "panel.background": "#0c0e14",
+        "title_bar.background": "#0c0e14",
+        "title_bar.inactive_background": "#0c0e14",
+        "status_bar.background": "#13161f",
+        "drop_target.background": "#2f3340",
+        "elevated_surface.background": "#13161f",
+        "toolbar.background": "#0c0e14",
+        "tab_bar.background": "#0c0e14",
+        "tab.inactive_background": "#0c0e14",
+        "tab.active_background": "#13161f",
+        "scrollbar.track.background": "transparent",
+        "scrollbar.track.border": "transparent",
+        "scrollbar.thumb.background": "#383c4a",
+        "editor.gutter.background": "#0c0e14",
+        "terminal.background": "#0c0e14",
+        "terminal.foreground": "#e0d6c2",
+        "terminal.dim_foreground": "#7c818c",
+        "terminal.bright_foreground": "#e0d6c2",
+        "terminal.ansi.black": "#1a1e29",
+        "terminal.ansi.red": "#ae0001",
+        "terminal.ansi.green": "#1a472a",
+        "terminal.ansi.yellow": "#ecb939",
+        "terminal.ansi.blue": "#224f85",
+        "terminal.ansi.magenta": "#725e87",
+        "terminal.ansi.cyan": "#3a6e6e",
+        "terminal.ansi.white": "#c4bca6",
+        "terminal.ansi.bright_black": "#5a5e6b",
+        "terminal.ansi.bright_red": "#c47f7f",
+        "terminal.ansi.bright_green": "#3a6e6e",
+        "terminal.ansi.bright_yellow": "#dba25a",
+        "terminal.ansi.bright_blue": "#7e97ba",
+        "terminal.ansi.bright_magenta": "#d18c9f",
+        "terminal.ansi.bright_cyan": "#9ea3ad",
+        "terminal.ansi.bright_white": "#e0d6c2",
+        "modified": "#ecb939",
+        "syntax": {
+          "attribute": {
+            "color": "#ecb939"
+          },
+          "boolean": {
+            "color": "#ae0001"
+          },
+          "comment": {
+            "color": "#5a5e6b"
+          },
+          "comment.doc": {
+            "color": "#5a5e6b"
+          },
+          "constant": {
+            "color": "#ecb939"
+          },
+          "function": {
+            "color": "#7e97ba"
+          },
+          "keyword": {
+            "color": "#725e87"
+          },
+          "number": {
+            "color": "#ecb939"
+          },
+          "operator": {
+            "color": "#e0d6c2"
+          },
+          "string": {
+            "color": "#3a6e6e"
+          },
+          "variable": {
+            "color": "#e0d6c2"
+          }
+        },
+        "players": [
+          {
+            "cursor": "#ecb939",
+            "background": "#ae0001",
+            "selection": "#2f3340"
+          }
+        ]
+      }
+    }
+  ]
+}

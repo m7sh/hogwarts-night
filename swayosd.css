@@ -1,0 +1,15 @@
+@define-color background-color #0c0e14;
+@define-color border-color #ecb939;
+@define-color label #e0d6c2;
+@define-color image #e0d6c2;
+@define-color progress #ae0001;
+
+* {
+    font-family: "Iosevka", monospace;
+}
+
+window#osd {
+    background-color: @background-color;
+    border: 2px solid @border-color;
+    border-radius: 10px;
+}

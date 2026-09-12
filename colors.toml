@@ -1,23 +1,62 @@
-[primary]
-background  = "#171515"
-foreground  = "#e0d6c2"
+mode = "dark"
 
-[normal]
-black       = "#232020"
-red         = "#ae0001"
-green       = "#1a472a"
-yellow      = "#ecb939"
-blue        = "#224f85"
-magenta     = "#725e87"
-cyan        = "#3a6e6e"
-white       = "#c4bca6"
+# Hogwarts Night Palette — Enchanting midnight stone, celestial azure & luminous candlelight
+accent = "#E5B869"
+focus_red = "#D45D68"
+selection = "#242A38"
+selection_background = "#242A38"
+selection_foreground = "#FAF5EE"
+muted = "#6B7285"
 
-[bright]
-black       = "#5c5555"
-red         = "#c47f7f"
-green       = "#3a6e6e"
-yellow      = "#dba25a"
-blue        = "#7e97ba"
-magenta     = "#d18c9f"
-cyan        = "#9ea3ad"
-white       = "#e0d6c2"
+# Midnight gothic castle surfaces
+background = "#0F1117"
+dark_background = "#0B0C10"
+darker_background = "#07080B"
+lighter_background = "#181B24"
+
+# Ancient parchment typography
+foreground = "#E4DCD0"
+dark_foreground = "#82899C"
+light_foreground = "#EDE6DB"
+bright_foreground = "#FAF5EE"
+cursor = "#E5B869"
+
+# Hyprland active border: Golden Snitch to Ravenclaw Midnight Azure 45deg gradient
+hyprland_active_border = "rgba(E5B869ff) rgba(6B95D6ff) 45deg"
+hyprland_inactive_border = "rgba(181B24bb)"
+
+# Four Houses & Spellcraft Syntax Accents
+red = "#D45D68"      # Gryffindor Crimson
+green = "#63A87E"    # Slytherin Emerald
+yellow = "#E5B869"   # Golden Snitch / Hufflepuff Gold
+blue = "#6B95D6"     # Ravenclaw Midnight Azure
+magenta = "#B382D9"  # Mystic Amethyst / Spell Magic
+cyan = "#5BBBB2"     # Patronus Silver-Teal
+orange = "#E28E58"   # Common Room Hearth
+brown = "#9B7D60"    # Antique Leather Binding
+
+# Bright luminous highlights
+bright_red = "#E57580"
+bright_green = "#78BE93"
+bright_yellow = "#F2C77D"
+bright_blue = "#82A9E5"
+bright_magenta = "#C497E8"
+bright_cyan = "#72CFC7"
+
+# Complete ANSI 16-color table for terminals
+color0 = "#181B24"
+color1 = "#D45D68"
+color2 = "#63A87E"
+color3 = "#E5B869"
+color4 = "#6B95D6"
+color5 = "#B382D9"
+color6 = "#5BBBB2"
+color7 = "#E4DCD0"
+color8 = "#545A6C"
+color9 = "#E57580"
+color10 = "#78BE93"
+color11 = "#F2C77D"
+color12 = "#82A9E5"
+color13 = "#C497E8"
+color14 = "#72CFC7"
+color15 = "#FAF5EE"

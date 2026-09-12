@@ -1,31 +1,31 @@
 [meta]
 version = 1
 name = "Hogwarts Night"
-description = "A magical Harry Potter system theme."
+description = "An aesthetic midnight Harry Potter system theme."
 variant = "dark"
 inherits = "vicinae-dark"
 
 [colors.core]
-background = "#0c0e14"
-foreground = "#e0d6c2"
-secondary_background = "#13161f"
-border = "#383c4a"
-accent = "#ecb939"
+background = "#0F1117"
+foreground = "#E4DCD0"
+secondary_background = "#181B24"
+border = "#242A38"
+accent = "#E5B869"
 
 [colors.list.item.hover]
-background = "#1a1e29"
-foreground = "#e0d6c2"
+background = "#181B24"
+foreground = "#FAF5EE"
 
 [colors.list.item.selection]
-background = "#2f3340"
-foreground = "#e0d6c2"
+background = "#242A38"
+foreground = "#FAF5EE"
 
 [colors.accents]
-blue = "#224f85"
-green = "#1a472a"
-magenta = "#725e87"
-orange = "#dba25a"
-purple = "#d18c9f"
-red = "#ae0001"
-yellow = "#ecb939"
-cyan = "#3a6e6e"
+blue = "#6B95D6"
+green = "#63A87E"
+magenta = "#B382D9"
+orange = "#E28E58"
+purple = "#B382D9"
+red = "#D45D68"
+yellow = "#E5B869"
+cyan = "#5BBBB2"

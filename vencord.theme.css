@@ -8,22 +8,22 @@
 
 :root {
     /* Hogwarts Night Palette */
-    --base00: #0c0e14; /* Deep Background */
-    --base01: #13161f; /* Mantle/Secondary */
-    --base02: #1a1e29; /* Crust/Tertiary */
-    --base03: #2f3340; /* Surface/Selection */
-    --base04: #5a5e6b; /* Overlay/Comments */
-    --base05: #e0d6c2; /* Text (Parchment) */
-    --base06: #e8c8c8; /* Rosewater */
-    --base07: #c4bca6; /* Subtext */
-    --base08: #ae0001; /* Red (Gryffindor) */
-    --base09: #dba25a; /* Peach/Orange */
-    --base0A: #ecb939; /* Yellow (Hufflepuff) */
-    --base0B: #1a472a; /* Green (Slytherin) */
-    --base0C: #3a6e6e; /* Cyan (Teal) */
-    --base0D: #224f85; /* Blue (Ravenclaw) */
-    --base0E: #725e87; /* Magenta (Mauve) */
-    --base0F: #740001; /* Maroon (Dark Accent) */
+    --base00: #0F1117; /* Deep Background */
+    --base01: #181B24; /* Mantle/Secondary */
+    --base02: #242A38; /* Crust/Tertiary */
+    --base03: #2D3446; /* Surface/Selection */
+    --base04: #6B7285; /* Overlay/Comments */
+    --base05: #E4DCD0; /* Text (Parchment) */
+    --base06: #FAF5EE; /* Bright Parchment */
+    --base07: #82899C; /* Subtext */
+    --base08: #D45D68; /* Red (Gryffindor Crimson) */
+    --base09: #E28E58; /* Peach/Orange (Hearth) */
+    --base0A: #E5B869; /* Yellow (Golden Snitch / Hufflepuff) */
+    --base0B: #63A87E; /* Green (Slytherin Emerald) */
+    --base0C: #5BBBB2; /* Cyan (Patronus Silver-Teal) */
+    --base0D: #6B95D6; /* Blue (Ravenclaw Midnight Azure) */
+    --base0E: #B382D9; /* Magenta (Mystic Amethyst) */
+    --base0F: #9B7D60; /* Brown (Aged Leather) */
 
     --font: "Iosevka";
     --font-code: var(--font);

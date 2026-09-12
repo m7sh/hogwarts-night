@@ -7,24 +7,24 @@ return {
 			disable_italics = false,
 			colors = {
 				-- Monotone shades (base00-base07)
-				base00 = "#0c0e14", -- Background (Hogwarts Night Base)
-				base01 = "#13161f", -- Status Bars (Mantle)
-				base02 = "#2f3340", -- Selection Background (Surface1)
-				base03 = "#5a5e6b", -- Comments (Overlay0 - Grey)
-				base04 = "#c4bca6", -- Dark Foreground (Subtext0)
-				base05 = "#e0d6c2", -- Default Foreground (Parchment)
-				base06 = "#e0d6c2", -- Light Foreground
-				base07 = "#e0d6c2", -- Light Background
+				base00 = "#0F1117", -- Background (Hogwarts Night Base)
+				base01 = "#181B24", -- Status Bars / Mantle
+				base02 = "#242A38", -- Selection Background
+				base03 = "#6B7285", -- Comments / Muted
+				base04 = "#82899C", -- Dark Foreground / Subtext
+				base05 = "#E4DCD0", -- Default Foreground (Parchment)
+				base06 = "#EDE6DB", -- Light Foreground
+				base07 = "#FAF5EE", -- Bright Foreground
 
 				-- Accent colors (base08-base0F)
-				base08 = "#ae0001", -- Red (Gryffindor)
-				base09 = "#dba25a", -- Orange (Peach)
-				base0A = "#ecb939", -- Yellow (Hufflepuff / Golden Snitch)
-				base0B = "#1a472a", -- Green (Slytherin)
-				base0C = "#3a6e6e", -- Cyan (Teal / Patronus)
-				base0D = "#224f85", -- Blue (Ravenclaw)
-				base0E = "#725e87", -- Magenta (Mauve / Magic)
-				base0F = "#740001", -- Brown/Maroon (Deep Red)
+				base08 = "#D45D68", -- Red (Gryffindor Crimson)
+				base09 = "#E28E58", -- Orange (Hearth Orange)
+				base0A = "#E5B869", -- Yellow (Hufflepuff / Golden Snitch)
+				base0B = "#63A87E", -- Green (Slytherin Emerald)
+				base0C = "#5BBBB2", -- Cyan (Patronus Silver-Teal)
+				base0D = "#6B95D6", -- Blue (Ravenclaw Midnight Azure)
+				base0E = "#B382D9", -- Magenta (Mystic Amethyst / Magic)
+				base0F = "#9B7D60", -- Brown / Aged Leather
 			},
 		},
 	},
